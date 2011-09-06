@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, CS_430_0Activity!</string>
+    <string name="app_name">CS_430_0</string>
+  	 <string name="textView1">Text Views LOL</string>
+</resources>
