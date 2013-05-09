@@ -1,1 +1,5 @@
-This is a test message...
+I wrote this Android application as part of my CS 430 Operating Systems class.
+It basically records some of the sensor data on my phone (accelerometer, etc), 
+ then it was able to upload the data to my server where I attempted to render it using WebGL.
+
+Not really practical for anything, but it allowed me to get familiar with making Android apps.
